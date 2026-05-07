@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "191.96.231.30",
+    "port": 11026,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 450,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "visit our website https://swordart.vercel.app",
+        "زورو موقعنا https://swordart.vercel.app",
+        "ترجو منكم الادارة اللعب بنظافة لمتعة وتحدي اكبر"
+        "ادارة سيرفر فن السيف تتمنى لكم لعب ممتع"
+        "الغش يعرضك لعقوبات قد تصل الى التبنيد الفوري وبدون نقاش"
+        "يرجى منكم عدم البناء امام السبون وعدم التخريب"
+        ""
+        ""
+        ""
       ]
     },
     "chat-log": true,
