@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "191.96.231.2",
-    "port": 31844,
+    "ip": "swordart.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
