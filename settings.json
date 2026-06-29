@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zenithsmpseason1.seedloaf.gg",
-    "port": 26433,
+    "ip": "zenithsmpseason1.play.hosting",
+    "port": 16046,
     "version": "",
     "try-creative": false
   },
